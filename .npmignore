@@ -1,0 +1,6 @@
+.nyc_output/
+*.log
+sonar-project.properties
+.nycrc.yml
+.eslintrc.yml
+.gitignore/
