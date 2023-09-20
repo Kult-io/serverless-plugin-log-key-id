@@ -1,6 +1,6 @@
 {
   "name": "serverless-plugin-log-key-id",
-  "version": "2.2.0",
+  "version": "1.0.1",
   "description": "Attach a KMS key to your functions' logs",
   "main": "serverless-plugin-log-key-id.js",
   "scripts": {
